@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "7e72c438cc8f6952",
+    "type": "split",
+    "children": [
+      {
+        "id": "0db84a34d30ed84b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3bcaa6434db0eb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/MarkDown/語法表/CheckBox.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6e578ce644bec4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/HTML/語法表/底線.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "648333b7f6dccb3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/HTML/語法表/底線.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84b40f3a79051a92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/HTML/HTML語法表.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f9e5c0f17e5ba7e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8a97a4a4456a5f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5561c5465b764b01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82fe6f8124ee6ab1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "96426cf58f3e32f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd7ae4a16f518f23",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e6257bee32eb43b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b885b90023f67b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b82a0643b6bc0d2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "程式語言/MarkDown/語法表/CheckBox.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5b6b05347c60502d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "程式語言/MarkDown/語法表/CheckBox.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "801793103ee8b238",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a8fb30c44a138347",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "程式語言/MarkDown/語法表/CheckBox.md"
+              }
+            }
+          },
+          {
+            "id": "cd0a0d93b3a85d97",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f9ef71854edae24",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "19be5d6fc8ca30f8",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "106c739297bd0b98",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 499.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "6f9e5c0f17e5ba7e",
+  "lastOpenFiles": [
+    "程式語言/HTML/HTML語法表.md",
+    "程式語言/HTML/語法表/跑馬燈.md",
+    "程式語言/MarkDown/語法表/圖片連結.md",
+    "程式語言/HTML/語法表/底線.md",
+    "程式語言/HTML/語法表/下標.md",
+    "程式語言/HTML/語法表/文字顏色.md",
+    "程式語言/HTML/語法表/字體大小.md",
+    "程式語言/MarkDown/Markdown語法表.md",
+    "程式語言/MarkDown/語法表/字體大小.md",
+    "程式語言/HTML/HTML.md",
+    "程式語言/HTML/語法表/上標.md",
+    "程式語言/MarkDown/語法表/CheckBox.md",
+    "程式語言/MarkDown/語法表/簡易超連結.md",
+    "程式語言/MarkDown/語法表/螢光標記.md",
+    "程式語言/MarkDown/語法表/數字標號.md",
+    "程式語言/MarkDown/語法表/圖片.md",
+    "程式語言/MarkDown/語法表/跳脫字元.md",
+    "程式語言/MarkDown/語法表/圓形標記.md",
+    "程式語言/MarkDown/語法表/程式碼區塊.md",
+    "程式語言/MarkDown/語法表/超連結.md",
+    "程式語言/MarkDown/語法表/短區塊.md",
+    "程式語言/MarkDown/語法表/粗體字.md",
+    "程式語言/MarkDown/語法表/斜體字.md",
+    "程式語言/MarkDown/語法表/斜粗字.md",
+    "程式語言/MarkDown/語法表/副標題.md",
+    "程式語言/MarkDown/語法表/表格.md",
+    "程式語言/HTML/語法表",
+    "程式語言/HTML",
+    "照片",
+    "照片/unknown.png",
+    "電腦/3948F3EB-D435-4F7F-B031-A3FBE050FEB1.jpeg",
+    "辯論",
+    "電腦/上課筆記",
+    "電腦",
+    "新增資料夾",
+    "程式語言/MarkDown/語法表",
+    "程式語言/MarkDown",
+    "程式語言",
+    "未命名.canvas",
+    "未命名 1.canvas"
+  ]
+}
