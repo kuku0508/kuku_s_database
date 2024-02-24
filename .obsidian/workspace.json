@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/MarkDown/語法表/字體大小.md",
+                "file": "程式語言/平台無關性.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -119,7 +119,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -139,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/MarkDown/語法表/字體大小.md",
+                "file": "程式語言/平台無關性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/MarkDown/語法表/字體大小.md",
+                "file": "程式語言/平台無關性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/MarkDown/語法表/字體大小.md"
+                "file": "程式語言/平台無關性.md"
               }
             }
           },
@@ -242,14 +243,15 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "6f9e5c0f17e5ba7e",
+  "active": "fd7ae4a16f518f23",
   "lastOpenFiles": [
+    "程式語言/程式語言.md",
+    "程式語言/MarkDown/語法表/字體大小.md",
     "程式語言/MarkDown/MarkDown.md",
     "辯論/網路讓人類思考多元or單一.md",
     "程式語言/平台無關性.md",
     "Recording 20240224165441.webm",
     "202402241652.md",
-    "程式語言/程式語言.md",
     "未命名.md",
     "README.md",
     "程式語言/HTML/HTML語法表.md",
@@ -260,7 +262,6 @@
     "程式語言/HTML/語法表/文字顏色.md",
     "程式語言/HTML/語法表/字體大小.md",
     "程式語言/MarkDown/Markdown語法表.md",
-    "程式語言/MarkDown/語法表/字體大小.md",
     "程式語言/HTML/HTML.md",
     "程式語言/HTML/語法表/上標.md",
     "程式語言/MarkDown/語法表/CheckBox.md",
