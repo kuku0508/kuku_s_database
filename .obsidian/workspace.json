@@ -134,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/MarkDown/語法表/CheckBox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/MarkDown/語法表/CheckBox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "程式語言/MarkDown/語法表/CheckBox.md"
-              }
+              "state": {}
             }
           },
           {
@@ -234,6 +230,7 @@
   },
   "active": "6f9e5c0f17e5ba7e",
   "lastOpenFiles": [
+    "README.md",
     "程式語言/HTML/HTML語法表.md",
     "程式語言/HTML/語法表/跑馬燈.md",
     "程式語言/MarkDown/語法表/圖片連結.md",
@@ -259,7 +256,6 @@
     "程式語言/MarkDown/語法表/斜體字.md",
     "程式語言/MarkDown/語法表/斜粗字.md",
     "程式語言/MarkDown/語法表/副標題.md",
-    "程式語言/MarkDown/語法表/表格.md",
     "程式語言/HTML/語法表",
     "程式語言/HTML",
     "照片",
