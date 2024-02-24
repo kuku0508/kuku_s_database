@@ -1,32 +1,3 @@
 {
-  "items": [
-    {
-      "type": "group",
-      "ctime": 1708662715556,
-      "items": [
-        {
-          "type": "file",
-          "ctime": 1708662732157,
-          "path": "程式語言/程式語言.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1708662740421,
-          "path": "程式語言/平台無關性.md"
-        },
-        {
-          "type": "folder",
-          "ctime": 1708662752622,
-          "path": "程式語言"
-        }
-      ],
-      "title": "程式語言"
-    },
-    {
-      "type": "group",
-      "ctime": 1708765034983,
-      "items": [],
-      "title": "未命名群組"
-    }
-  ]
+  "items": []
 }
