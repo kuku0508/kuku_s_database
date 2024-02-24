@@ -11,8 +11,13 @@
             "id": "7f60415b56ffefad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/HTML/語法表/跑馬燈.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "程式語言/HTML/語法表/跑馬燈.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "程式語言/HTML/語法表/跑馬燈.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +114,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "程式語言/HTML/語法表/跑馬燈.md"
+          }
         }
       }
     ],
@@ -125,6 +134,9 @@
   },
   "active": "a663acf10f2dee35",
   "lastOpenFiles": [
+    "程式語言/MarkDown/語法表/簡易超連結.md",
+    "程式語言/MarkDown/語法表/副標題.md",
+    "程式語言/HTML/語法表/底線.md",
     "程式語言/平台無關性.md",
     "程式語言/MarkDown/語法表/程式碼區塊.md",
     "程式語言/HTML/語法表/跑馬燈.md",
@@ -139,7 +151,6 @@
     "程式語言/MarkDown/語法表/短區塊.md",
     "程式語言/MarkDown/語法表/CheckBox.md",
     "程式語言/HTML/語法表/上標.md",
-    "程式語言/HTML/語法表/底線.md",
     "照片",
     "辯論",
     "程式語言/HTML/語法表",
