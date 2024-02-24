@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/HTML/語法表/跑馬燈.md",
+                "file": "辯論/健言公告.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "程式語言/HTML/語法表/跑馬燈.md",
+            "file": "辯論/健言公告.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "程式語言/HTML/語法表/跑馬燈.md",
+            "file": "辯論/健言公告.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "程式語言/HTML/語法表/跑馬燈.md"
+            "file": "辯論/健言公告.md"
           }
         }
       }
@@ -132,34 +132,35 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "a663acf10f2dee35",
+  "active": "7f60415b56ffefad",
   "lastOpenFiles": [
+    "未命名.md",
+    "程式語言/MarkDown/Markdown語法表.md",
+    "程式語言/HTML/HTML.md",
+    "辯論/廉政盃.md",
+    "辯論/網路讓人類思考多元or單一.md",
+    "辯論/菁英盃.md",
+    "程式語言/MarkDown/語法表/分隔線.md",
+    "程式語言/MarkDown/語法表/圖片.md",
+    "辯論/健言公告.md",
+    "照片/unknown.png",
+    "程式語言/HTML/語法表/跑馬燈.md",
+    "程式語言/MarkDown/語法表/圓形標記.md",
+    "程式語言/HTML/語法表/字體大小.md",
+    "程式語言/MarkDown/語法表/表格.md",
+    "程式語言/MarkDown/語法表/字體大小.md",
     "程式語言/程式語言.md",
     "程式語言/MarkDown/語法表/引文.md",
     "程式語言/MarkDown/語法表/圖片連結.md",
     "程式語言/MarkDown/語法表/跳脫字元.md",
     "程式語言/MarkDown/MarkDown.md",
     "程式語言/HTML/HTML語法表.md",
-    "程式語言/MarkDown/語法表/分隔線.md",
     "程式語言/HTML/語法表/文字顏色.md",
     "程式語言/MarkDown/語法表/主標題.md",
     "程式語言/MarkDown/語法表/簡易超連結.md",
     "程式語言/MarkDown/語法表/副標題.md",
     "程式語言/HTML/語法表/底線.md",
     "程式語言/平台無關性.md",
-    "程式語言/MarkDown/語法表/程式碼區塊.md",
-    "程式語言/HTML/語法表/跑馬燈.md",
-    "程式語言/MarkDown/語法表/粗體字.md",
-    "程式語言/MarkDown/語法表/斜體字.md",
-    "程式語言/MarkDown/語法表/刪除線.md",
-    "程式語言/MarkDown/語法表/超連結.md",
-    "程式語言/MarkDown/語法表/數字標號.md",
-    "程式語言/MarkDown/語法表/斜粗字.md",
-    "程式語言/HTML/語法表/下標.md",
-    "程式語言/MarkDown/語法表/螢光標記.md",
-    "程式語言/MarkDown/語法表/短區塊.md",
-    "程式語言/MarkDown/語法表/CheckBox.md",
-    "程式語言/HTML/語法表/上標.md",
     "照片",
     "辯論",
     "程式語言/HTML/語法表",
