@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/平台無關性.md",
+                "file": "程式語言/MarkDown/語法表/字體大小.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/平台無關性.md",
+                "file": "程式語言/MarkDown/語法表/字體大小.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/平台無關性.md",
+                "file": "程式語言/MarkDown/語法表/字體大小.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/平台無關性.md"
+                "file": "程式語言/MarkDown/語法表/字體大小.md"
               }
             }
           },
@@ -236,13 +236,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "breadcrumbs:Breadcrumbs Visualisation": false,
       "workspaces:管理工作區配置": false,
-      "zk-prefixer:建立新唯一筆記": false
+      "zk-prefixer:建立新唯一筆記": false,
+      "random-note:開始漫遊筆記": false,
+      "audio-recorder:開始/停止錄音": false,
+      "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
   "active": "6f9e5c0f17e5ba7e",
   "lastOpenFiles": [
-    "202402241652.md",
+    "程式語言/MarkDown/MarkDown.md",
+    "辯論/網路讓人類思考多元or單一.md",
     "程式語言/平台無關性.md",
+    "Recording 20240224165441.webm",
+    "202402241652.md",
     "程式語言/程式語言.md",
     "未命名.md",
     "README.md",
@@ -265,8 +271,6 @@
     "程式語言/MarkDown/語法表/跳脫字元.md",
     "程式語言/MarkDown/語法表/圓形標記.md",
     "程式語言/MarkDown/語法表/程式碼區塊.md",
-    "程式語言/MarkDown/語法表/超連結.md",
-    "程式語言/MarkDown/語法表/短區塊.md",
     "程式語言/HTML/語法表",
     "程式語言/HTML",
     "照片",
@@ -278,7 +282,6 @@
     "新增資料夾",
     "程式語言/MarkDown/語法表",
     "程式語言/MarkDown",
-    "程式語言",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
