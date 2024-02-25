@@ -242,8 +242,9 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "6f9e5c0f17e5ba7e",
+  "active": "82fe6f8124ee6ab1",
   "lastOpenFiles": [
+    "程式語言/Latex",
     "程式語言/MarkDown/語法表/跳脫字元.md",
     "程式語言/MarkDown/語法表/螢光標記.md",
     "程式語言/平台無關性.md",
@@ -270,7 +271,6 @@
     "程式語言/MarkDown/語法表/數字標號.md",
     "程式語言/MarkDown/語法表/圖片.md",
     "程式語言/MarkDown/語法表/圓形標記.md",
-    "程式語言/MarkDown/語法表/程式碼區塊.md",
     "程式語言/HTML/語法表",
     "程式語言/HTML",
     "照片",
