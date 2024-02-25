@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/Latex/未命名.md",
+                "file": "程式語言/Latex/Latex.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/未命名.md",
+                "file": "程式語言/Latex/Latex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/未命名.md",
+                "file": "程式語言/Latex/Latex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/未命名.md"
+                "file": "程式語言/Latex/Latex.md"
               }
             }
           },
@@ -258,7 +258,7 @@
   "active": "45461fe045c070c0",
   "lastOpenFiles": [
     "程式語言/MarkDown/語法表/引文.md",
-    "程式語言/Latex/未命名.md",
+    "程式語言/Latex/Latex.md",
     "程式語言/MarkDown/語法表/圓形標記.md",
     "程式語言/Latex",
     "程式語言/MarkDown/語法表/跳脫字元.md",
