@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/Latex/未命名.md",
+                "file": "程式語言/Latex/Latex.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/未命名.md",
+                "file": "程式語言/Latex/Latex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/未命名.md",
+                "file": "程式語言/Latex/Latex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/未命名.md"
+                "file": "程式語言/Latex/Latex.md"
               }
             }
           },
@@ -296,8 +296,8 @@
   },
   "active": "839ae7d393a5bce4",
   "lastOpenFiles": [
+    "程式語言/Latex/Latex語法表.md",
     "程式語言/Latex/Latex.md",
-    "程式語言/Latex/未命名.md",
     "程式語言/Latex/隨文數式.md",
     "程式語言/Latex/數學模式.md",
     "程式語言/Latex/展式數式.md",
