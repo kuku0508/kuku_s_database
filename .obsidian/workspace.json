@@ -104,23 +104,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/Latex/隨文數式.md",
+                "file": "程式語言/MarkDown/MarkDown.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "ee701ea616798e79",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -186,6 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "程式語言/MarkDown/MarkDown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,6 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "程式語言/MarkDown/MarkDown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -223,7 +217,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "程式語言/MarkDown/MarkDown.md"
+              }
             }
           },
           {
@@ -263,7 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 499.5
+    "width": 328.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,12 +281,17 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "ee701ea616798e79",
+  "active": "3844e9cb11e0174a",
   "lastOpenFiles": [
-    "程式語言/Latex/數學模式.md",
-    "程式語言/Latex/隨文數式.md",
-    "程式語言/Latex/Latex.md",
+    "程式語言/MarkDown/Markdown語法表.md",
+    "程式語言/MarkDown/語法表/分隔線.md",
+    "程式語言/HTML/語法表/字體大小.md",
+    "程式語言/HTML/語法表/底線.md",
+    "程式語言/HTML/語法表/跑馬燈.md",
     "程式語言/Latex/展式數式.md",
+    "程式語言/Latex/隨文數式.md",
+    "程式語言/Latex/數學模式.md",
+    "程式語言/Latex/Latex.md",
     "程式語言/HTML/HTML.md",
     "程式語言/MarkDown/語法表/引文.md",
     "程式語言/MarkDown/語法表/圓形標記.md",
@@ -307,14 +308,9 @@
     "未命名.md",
     "README.md",
     "程式語言/HTML/HTML語法表.md",
-    "程式語言/HTML/語法表/跑馬燈.md",
     "程式語言/MarkDown/語法表/圖片連結.md",
-    "程式語言/HTML/語法表/底線.md",
     "程式語言/HTML/語法表/下標.md",
     "程式語言/HTML/語法表/文字顏色.md",
-    "程式語言/HTML/語法表/字體大小.md",
-    "程式語言/MarkDown/Markdown語法表.md",
-    "程式語言/HTML/語法表/上標.md",
     "程式語言/HTML/語法表",
     "程式語言/HTML",
     "照片",
