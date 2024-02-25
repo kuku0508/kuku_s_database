@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/Latex/隨文數式.md",
+                "file": "程式語言/Latex/Latex.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/隨文數式.md",
+                "file": "程式語言/Latex/Latex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/隨文數式.md",
+                "file": "程式語言/Latex/Latex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/隨文數式.md"
+                "file": "程式語言/Latex/Latex.md"
               }
             }
           },
@@ -283,8 +283,8 @@
   },
   "active": "3844e9cb11e0174a",
   "lastOpenFiles": [
-    "程式語言/Latex/數學模式.md",
     "程式語言/Latex/隨文數式.md",
+    "程式語言/Latex/數學模式.md",
     "程式語言/Latex/Latex.md",
     "程式語言/MarkDown/語法表/引文.md",
     "程式語言/MarkDown/語法表/圓形標記.md",
