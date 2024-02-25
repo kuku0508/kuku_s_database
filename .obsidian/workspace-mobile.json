@@ -124,6 +124,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:開啟 Markdown 格式轉換器": false,
+      "zk-prefixer:建立新唯一筆記": false,
+      "random-note:開始漫遊筆記": false,
+      "audio-recorder:開始/停止錄音": false,
+      "workspaces:管理工作區配置": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
@@ -134,6 +139,10 @@
   },
   "active": "7f60415b56ffefad",
   "lastOpenFiles": [
+    "程式語言/Latex/隨文數式.md",
+    "程式語言/Latex/數學模式.md",
+    "程式語言/Latex/Latex.md",
+    "程式語言/Latex/展式數式.md",
     "未命名.md",
     "程式語言/MarkDown/Markdown語法表.md",
     "程式語言/HTML/HTML.md",
@@ -157,10 +166,6 @@
     "程式語言/HTML/HTML語法表.md",
     "程式語言/HTML/語法表/文字顏色.md",
     "程式語言/MarkDown/語法表/主標題.md",
-    "程式語言/MarkDown/語法表/簡易超連結.md",
-    "程式語言/MarkDown/語法表/副標題.md",
-    "程式語言/HTML/語法表/底線.md",
-    "程式語言/平台無關性.md",
     "照片",
     "辯論",
     "程式語言/HTML/語法表",
