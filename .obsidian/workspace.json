@@ -97,9 +97,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3844e9cb11e0174a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/隨文數式.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/數學模式.md",
+                "file": "程式語言/Latex/隨文數式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/數學模式.md",
+                "file": "程式語言/Latex/隨文數式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/數學模式.md"
+                "file": "程式語言/Latex/隨文數式.md"
               }
             }
           },
@@ -268,10 +281,11 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "e0e2c9ff3e047814",
+  "active": "3844e9cb11e0174a",
   "lastOpenFiles": [
-    "程式語言/Latex/Latex.md",
     "程式語言/Latex/數學模式.md",
+    "程式語言/Latex/隨文數式.md",
+    "程式語言/Latex/Latex.md",
     "程式語言/MarkDown/語法表/引文.md",
     "程式語言/MarkDown/語法表/圓形標記.md",
     "程式語言/Latex",
@@ -297,7 +311,6 @@
     "程式語言/HTML/HTML.md",
     "程式語言/HTML/語法表/上標.md",
     "程式語言/MarkDown/語法表/CheckBox.md",
-    "程式語言/MarkDown/語法表/簡易超連結.md",
     "程式語言/HTML/語法表",
     "程式語言/HTML",
     "照片",
