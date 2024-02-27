@@ -1,5 +1,7 @@
 {
   "autoPairMarkdown": false,
   "autoPairBrackets": false,
-  "smartIndentList": false
+  "smartIndentList": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "副件"
 }
