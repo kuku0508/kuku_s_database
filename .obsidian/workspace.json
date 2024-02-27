@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3afa9e70ddddd8fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/下標.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/上標.md",
+                "file": "程式語言/Latex/語法表/下標.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/上標.md",
+                "file": "程式語言/Latex/語法表/下標.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/語法表/上標.md"
+                "file": "程式語言/Latex/語法表/下標.md"
               }
             }
           },
@@ -190,10 +203,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b41dc7605f847cae",
+  "active": "3afa9e70ddddd8fa",
   "lastOpenFiles": [
-    "程式語言/HTML/HTML語法表.md",
     "程式語言/Latex/語法表/上標.md",
+    "程式語言/Latex/語法表/下標.md",
+    "程式語言/HTML/HTML語法表.md",
     "程式語言/Latex/Latex語法表.md",
     "程式語言/HTML/語法表/上標.md",
     "附件",
