@@ -3,5 +3,6 @@
   "autoPairBrackets": false,
   "smartIndentList": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "副件"
+  "attachmentFolderPath": "附件",
+  "alwaysUpdateLinks": true
 }
