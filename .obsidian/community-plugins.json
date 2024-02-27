@@ -6,5 +6,18 @@
   "calendar",
   "cmdr",
   "convert-url-to-iframe",
-  "dataview"
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "obsidian-git",
+  "obsidian-hover-editor",
+  "obsidian-kanban",
+  "obsidian-mind-map",
+  "note-refactor-obsidian",
+  "obsidian42-text-transporter",
+  "obsidian-outliner",
+  "periodic-notes",
+  "obsidian-reading-time",
+  "obsidian-style-settings",
+  "tag-wrangler",
+  "templater-obsidian"
 ]
