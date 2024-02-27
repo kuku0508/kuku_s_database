@@ -2,5 +2,5 @@
 
 ```dataview
 list
-from "程式語言/"
+from "程式語言/Latex/語法表"
 ```

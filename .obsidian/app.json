@@ -1,1 +1,5 @@
-{}
+{
+  "autoPairMarkdown": false,
+  "autoPairBrackets": false,
+  "smartIndentList": false
+}
