@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "辯論/健言公告.md",
+                "file": "程式語言/Latex/展式數式.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "辯論/健言公告.md",
+            "file": "程式語言/Latex/展式數式.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "辯論/健言公告.md",
+            "file": "程式語言/Latex/展式數式.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "辯論/健言公告.md"
+            "file": "程式語言/Latex/展式數式.md"
           }
         }
       }
@@ -139,6 +139,7 @@
   },
   "active": "7f60415b56ffefad",
   "lastOpenFiles": [
+    "辯論/健言公告.md",
     "程式語言/Latex/Latex語法表.md",
     "程式語言/Latex/隨文數式.md",
     "程式語言/Latex/數學模式.md",
@@ -152,7 +153,6 @@
     "辯論/菁英盃.md",
     "程式語言/MarkDown/語法表/分隔線.md",
     "程式語言/MarkDown/語法表/圖片.md",
-    "辯論/健言公告.md",
     "照片/unknown.png",
     "程式語言/HTML/語法表/跑馬燈.md",
     "程式語言/MarkDown/語法表/圓形標記.md",

@@ -1,7 +1,5 @@
 {
-  "accentColor": "#71c1fe",
-  "theme": "obsidian",
+  "accentColor": "",
   "cssTheme": "Minimal",
-  "textFontFamily": "俐方體11號",
-  "baseFontSize": 15
+  "theme": "obsidian"
 }

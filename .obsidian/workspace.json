@@ -1,145 +1,35 @@
 {
   "main": {
-    "id": "7e72c438cc8f6952",
+    "id": "c6f51cbd71b762ae",
     "type": "split",
     "children": [
       {
-        "id": "0db84a34d30ed84b",
+        "id": "fa98f49e8cedfa9f",
         "type": "tabs",
         "children": [
           {
-            "id": "e3bcaa6434db0eb4",
+            "id": "2a7a229760fc5b4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/MarkDown/語法表/CheckBox.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6e578ce644bec4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/HTML/語法表/底線.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "648333b7f6dccb3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/HTML/語法表/底線.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84b40f3a79051a92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/HTML/HTML語法表.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f9e5c0f17e5ba7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/MarkDown/語法表/圓形標記.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45461fe045c070c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/Latex.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0e2c9ff3e047814",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/數學模式.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3844e9cb11e0174a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/Latex.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "839ae7d393a5bce4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/Latex.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c8a97a4a4456a5f8",
+    "id": "79d081944a826f53",
     "type": "split",
     "children": [
       {
-        "id": "5561c5465b764b01",
+        "id": "32beda51556d64d8",
         "type": "tabs",
         "children": [
           {
-            "id": "82fe6f8124ee6ab1",
+            "id": "418f87f864239790",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -149,7 +39,7 @@
             }
           },
           {
-            "id": "96426cf58f3e32f4",
+            "id": "c1eb8eaa520f8c0b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -164,7 +54,7 @@
             }
           },
           {
-            "id": "fd7ae4a16f518f23",
+            "id": "1f77d61cd010fee6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -178,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "1e6257bee32eb43b",
+    "id": "1e2f35858b280e10",
     "type": "split",
     "children": [
       {
-        "id": "8b885b90023f67b0",
+        "id": "1a5f8aa796116c0f",
         "type": "tabs",
         "children": [
           {
-            "id": "b82a0643b6bc0d2e",
+            "id": "1a53ff68b113ea94",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/Latex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,19 +92,18 @@
             }
           },
           {
-            "id": "5b6b05347c60502d",
+            "id": "7381e23a6fc9d6fa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/Latex.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "801793103ee8b238",
+            "id": "9b0c75fcff2fc7c8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -226,17 +114,15 @@
             }
           },
           {
-            "id": "a8fb30c44a138347",
+            "id": "0c0a78a5e406f307",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "程式語言/Latex/Latex.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "cd0a0d93b3a85d97",
+            "id": "90d7a9af941e07fc",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -244,15 +130,7 @@
             }
           },
           {
-            "id": "0f9ef71854edae24",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "19be5d6fc8ca30f8",
+            "id": "698a28f3ddcf431f",
             "type": "leaf",
             "state": {
               "type": "BC-matrix",
@@ -260,7 +138,7 @@
             }
           },
           {
-            "id": "106c739297bd0b98",
+            "id": "fbda357cb10df8bd",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
@@ -272,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,58 +162,9 @@
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "workspaces:管理工作區配置": false,
-      "zk-prefixer:建立新唯一筆記": false,
-      "random-note:開始漫遊筆記": false,
-      "audio-recorder:開始/停止錄音": false,
-      "markdown-importer:開啟 Markdown 格式轉換器": false
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "839ae7d393a5bce4",
-  "lastOpenFiles": [
-    "程式語言/Latex/Latex語法表.md",
-    "程式語言/Latex/Latex.md",
-    "程式語言/Latex/隨文數式.md",
-    "程式語言/Latex/數學模式.md",
-    "程式語言/Latex/展式數式.md",
-    "程式語言/HTML/語法表/跑馬燈.md",
-    "程式語言/HTML/語法表/底線.md",
-    "程式語言/HTML/語法表/上標.md",
-    "程式語言/MarkDown/MarkDown.md",
-    "程式語言/MarkDown/Markdown語法表.md",
-    "程式語言/MarkDown/語法表/分隔線.md",
-    "程式語言/HTML/語法表/字體大小.md",
-    "程式語言/HTML/HTML.md",
-    "程式語言/MarkDown/語法表/引文.md",
-    "程式語言/MarkDown/語法表/圓形標記.md",
-    "程式語言/Latex",
-    "程式語言/MarkDown/語法表/跳脫字元.md",
-    "程式語言/MarkDown/語法表/螢光標記.md",
-    "程式語言/平台無關性.md",
-    "程式語言/程式語言.md",
-    "程式語言/MarkDown/語法表/字體大小.md",
-    "辯論/網路讓人類思考多元or單一.md",
-    "Recording 20240224165441.webm",
-    "202402241652.md",
-    "未命名.md",
-    "README.md",
-    "程式語言/HTML/HTML語法表.md",
-    "程式語言/MarkDown/語法表/圖片連結.md",
-    "程式語言/HTML/語法表",
-    "程式語言/HTML",
-    "照片",
-    "照片/unknown.png",
-    "電腦/3948F3EB-D435-4F7F-B031-A3FBE050FEB1.jpeg",
-    "辯論",
-    "電腦/上課筆記",
-    "電腦",
-    "新增資料夾",
-    "程式語言/MarkDown/語法表",
-    "未命名.canvas",
-    "未命名 1.canvas"
-  ]
+  "active": "fbda357cb10df8bd",
+  "lastOpenFiles": []
 }
