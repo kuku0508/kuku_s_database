@@ -58,9 +58,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71f03c42aa5787ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ae7c8e2bbd11aa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/大括號｛｝.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9cdded0518c66c11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/大括號｛｝.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -126,7 +165,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/尖括號〈〉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +181,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/尖括號〈〉.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +202,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "程式語言/Latex/語法表/尖括號〈〉.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,7 +230,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -210,14 +245,16 @@
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
-      "templater-obsidian:Templater": false
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "f7d82cd25aa22e30",
+  "active": "fbda357cb10df8bd",
   "lastOpenFiles": [
+    "程式語言/Latex/語法表/大括號｛｝.md",
+    "程式語言/Latex/語法表/下標.md",
+    "程式語言/Latex/語法表/尖括號〈〉.md",
+    "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md",
+    "程式語言/Latex/語法表/分數.md",
     "程式語言/MarkDown/語法表/刪除線.md",
     "程式語言/MarkDown/語法表/字體大小.md",
     "程式語言/MarkDown/語法表/主標題.md",
@@ -225,9 +262,7 @@
     "程式語言/HTML/HTML語法表.md",
     "程式語言/HTML/語法表/底線_.md",
     "程式語言/HTML/HTML.md",
-    "程式語言/Latex/語法表/尖括號〈〉.md",
     "程式語言/Latex/語法表/上標.md",
-    "程式語言/Latex/語法表/下標.md",
     "程式語言/Latex/Latex語法表.md",
     "程式語言/HTML/語法表/上標.md",
     "附件",
