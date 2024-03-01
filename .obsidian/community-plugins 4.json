@@ -2,9 +2,10 @@
   "table-editor-obsidian",
   "obsidian-annotator",
   "better-word-count",
-  "breadcrumbs",
   "calendar",
+  "breadcrumbs",
   "cmdr",
+  "convert-url-to-iframe",
   "dataview",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
@@ -16,7 +17,8 @@
   "obsidian-outliner",
   "periodic-notes",
   "obsidian-reading-time",
+  "remotely-save",
+  "obsidian-style-settings",
   "tag-wrangler",
-  "templater-obsidian",
-  "obsidian-style-settings"
+  "templater-obsidian"
 ]

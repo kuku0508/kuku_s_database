@@ -11,13 +11,8 @@
             "id": "7f60415b56ffefad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/展式數式.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "程式語言/Latex/展式數式.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "程式語言/Latex/展式數式.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,9 +107,31 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "程式語言/Latex/展式數式.md"
-          }
+          "state": {}
+        }
+      },
+      {
+        "id": "c7cad02c837c862e",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "4a288bf15ea5efa0",
+        "type": "leaf",
+        "state": {
+          "type": "BC-matrix",
+          "state": {}
+        }
+      },
+      {
+        "id": "e9d65abb505f05af",
+        "type": "leaf",
+        "state": {
+          "type": "BC-tree",
+          "state": {}
         }
       }
     ],
@@ -124,27 +139,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:開啟 Markdown 格式轉換器": false,
-      "zk-prefixer:建立新唯一筆記": false,
-      "random-note:開始漫遊筆記": false,
-      "audio-recorder:開始/停止錄音": false,
-      "workspaces:管理工作區配置": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
-      "command-palette:開啟命令面板": false
+      "command-palette:開啟命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "7f60415b56ffefad",
   "lastOpenFiles": [
+    "程式語言/HTML/HTML語法表.md",
+    "程式語言/Latex/展式數式.md",
     "辯論/健言公告.md",
     "程式語言/Latex/Latex語法表.md",
     "程式語言/Latex/隨文數式.md",
     "程式語言/Latex/數學模式.md",
     "程式語言/Latex/Latex.md",
-    "程式語言/Latex/展式數式.md",
     "未命名.md",
     "程式語言/MarkDown/Markdown語法表.md",
     "程式語言/HTML/HTML.md",
@@ -164,7 +180,6 @@
     "程式語言/MarkDown/語法表/圖片連結.md",
     "程式語言/MarkDown/語法表/跳脫字元.md",
     "程式語言/MarkDown/MarkDown.md",
-    "程式語言/HTML/HTML語法表.md",
     "程式語言/HTML/語法表/文字顏色.md",
     "照片",
     "辯論",

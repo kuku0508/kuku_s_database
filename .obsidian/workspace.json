@@ -160,6 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "程式語言/Latex/Latex語法表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "程式語言/Latex/Latex語法表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +199,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "程式語言/Latex/Latex語法表.md"
+              }
             }
           },
           {
@@ -240,11 +244,7 @@
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
-      "remotely-save:Remotely Save": false,
-      "templater-obsidian:Templater": false
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "9cdded0518c66c11",
