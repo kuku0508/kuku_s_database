@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/省略符號 ‧‧‧.md",
+                "file": "程式語言/Latex/Latex語法表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/省略符號 ‧‧‧.md",
+                "file": "程式語言/Latex/Latex語法表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/語法表/省略符號 ‧‧‧.md"
+                "file": "程式語言/Latex/Latex語法表.md"
               }
             }
           },
@@ -282,7 +282,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d2e06408a2b24caa",
+  "active": "60d8cba6a1603c6b",
   "lastOpenFiles": [
     "程式語言/Latex/語法表/省略符號 ‧‧‧.md",
     "程式語言/Latex/語法表/開方√.md",
