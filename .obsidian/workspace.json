@@ -156,7 +156,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/Latex/語法表/微分.md",
+                "file": "程式語言/Latex/語法表/積分.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/微分.md",
+                "file": "程式語言/Latex/語法表/積分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/微分.md",
+                "file": "程式語言/Latex/語法表/積分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/語法表/微分.md"
+                "file": "程式語言/Latex/語法表/積分.md"
               }
             }
           },
@@ -324,7 +324,7 @@
   "active": "2a8e29602c85174e",
   "lastOpenFiles": [
     "程式語言/Latex/語法表/向下取整 ⌊ ⌋.md",
-    "程式語言/Latex/語法表/微分.md",
+    "程式語言/Latex/語法表/積分.md",
     "程式語言/Latex/語法表/開方√.md",
     "程式語言/Latex/語法表/省略符號 ‧‧‧.md",
     "程式語言/Latex/語法表/尖括號〈〉.md",
