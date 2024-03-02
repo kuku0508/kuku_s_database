@@ -115,8 +115,13 @@
             "id": "d2e06408a2b24caa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/省略符號.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -186,6 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "程式語言/Latex/語法表/省略符號.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,6 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "程式語言/Latex/語法表/省略符號.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +230,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "程式語言/Latex/語法表/省略符號.md"
+              }
             }
           },
           {
@@ -255,7 +264,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 443.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,7 +289,7 @@
     "程式語言/Latex/語法表/下標.md",
     "程式語言/Latex/語法表/大括號｛｝.md",
     "程式語言/Latex/語法表/分數.md",
-    "程式語言/Latex/語法表/未命名.md",
+    "程式語言/Latex/語法表/省略符號.md",
     "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md",
     "程式語言/Latex/語法表/尖括號〈〉.md",
     "程式語言/MarkDown/語法表/刪除線.md",
