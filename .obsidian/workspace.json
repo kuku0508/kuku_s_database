@@ -89,12 +89,43 @@
             "id": "9cdded0518c66c11",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/尖括號〈〉.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d1813ffca36700a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/開方√.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2e06408a2b24caa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/開方√.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -160,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/Latex語法表.md",
+                "file": "程式語言/Latex/語法表/開方√.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/Latex語法表.md",
+                "file": "程式語言/Latex/語法表/開方√.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/Latex語法表.md"
+                "file": "程式語言/Latex/語法表/開方√.md"
               }
             }
           },
@@ -244,17 +275,19 @@
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "9cdded0518c66c11",
+  "active": "d2e06408a2b24caa",
   "lastOpenFiles": [
+    "程式語言/Latex/語法表/上標.md",
+    "程式語言/Latex/語法表/下標.md",
+    "程式語言/Latex/語法表/大括號｛｝.md",
+    "程式語言/Latex/語法表/分數.md",
+    "程式語言/Latex/語法表/未命名.md",
     "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md",
     "程式語言/Latex/語法表/尖括號〈〉.md",
-    "程式語言/Latex/語法表/分數.md",
-    "程式語言/Latex/語法表/大括號｛｝.md",
-    "程式語言/Latex/語法表/下標.md",
+    "程式語言/Latex/語法表/開方√.md",
     "程式語言/MarkDown/語法表/刪除線.md",
     "程式語言/MarkDown/語法表/字體大小.md",
     "程式語言/MarkDown/語法表/主標題.md",
@@ -262,7 +295,6 @@
     "程式語言/HTML/HTML語法表.md",
     "程式語言/HTML/語法表/底線_.md",
     "程式語言/HTML/HTML.md",
-    "程式語言/Latex/語法表/上標.md",
     "程式語言/Latex/Latex語法表.md",
     "程式語言/HTML/語法表/上標.md",
     "附件",
