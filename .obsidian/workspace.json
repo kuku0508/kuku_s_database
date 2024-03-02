@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/Latex語法表.md",
+                "file": "程式語言/Latex/語法表/省略符號 ‧‧‧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/Latex語法表.md",
+                "file": "程式語言/Latex/語法表/省略符號 ‧‧‧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/Latex語法表.md"
+                "file": "程式語言/Latex/語法表/省略符號 ‧‧‧.md"
               }
             }
           },
@@ -282,8 +282,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "60d8cba6a1603c6b",
+  "active": "d2e06408a2b24caa",
   "lastOpenFiles": [
+    "程式語言/Latex/Latex語法表.md",
     "程式語言/Latex/語法表/省略符號 ‧‧‧.md",
     "程式語言/Latex/語法表/開方√.md",
     "程式語言/Latex/語法表/上標.md",
@@ -299,7 +300,6 @@
     "程式語言/HTML/HTML語法表.md",
     "程式語言/HTML/語法表/底線_.md",
     "程式語言/HTML/HTML.md",
-    "程式語言/Latex/Latex語法表.md",
     "程式語言/HTML/語法表/上標.md",
     "附件",
     "程式語言/Latex/展式數式.md",
