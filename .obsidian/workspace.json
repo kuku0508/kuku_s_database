@@ -175,13 +175,8 @@
             "id": "c979f0c33832c6bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/極限.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -251,7 +246,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/極限.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +262,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/極限.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,9 +283,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "程式語言/Latex/語法表/極限.md"
-              }
+              "state": {}
             }
           },
           {
@@ -343,8 +334,8 @@
   },
   "active": "c979f0c33832c6bf",
   "lastOpenFiles": [
-    "程式語言/Latex/語法表/積分.md",
     "程式語言/Latex/語法表/極限.md",
+    "程式語言/Latex/語法表/積分.md",
     "程式語言/Latex/語法表/微分.md",
     "程式語言/Latex/語法表/向下取整 ⌊ ⌋.md",
     "程式語言/Latex/語法表/開方√.md",
