@@ -175,8 +175,13 @@
             "id": "c979f0c33832c6bf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/積分.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -246,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/Latex語法表.md",
+                "file": "程式語言/Latex/語法表/積分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/Latex語法表.md",
+                "file": "程式語言/Latex/語法表/積分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/Latex語法表.md"
+                "file": "程式語言/Latex/語法表/積分.md"
               }
             }
           },
@@ -339,8 +344,8 @@
   "active": "c979f0c33832c6bf",
   "lastOpenFiles": [
     "程式語言/Latex/語法表/極限.md",
-    "程式語言/Latex/語法表/積分.md",
     "程式語言/Latex/語法表/微分.md",
+    "程式語言/Latex/語法表/積分.md",
     "程式語言/Latex/語法表/向下取整 ⌊ ⌋.md",
     "程式語言/Latex/語法表/開方√.md",
     "程式語言/Latex/語法表/省略符號 ‧‧‧.md",
@@ -361,4 +366,10 @@
     "程式語言/HTML/HTML.md",
     "程式語言/HTML/語法表/上標.md",
     "附件",
-    "
+    "程式語言/Latex/展式數式.md",
+    "程式語言/Latex/語法表",
+    "程式語言/HTML/語法表/下標.md",
+    "程式語言/Latex/隨文數式.md",
+    "程式語言/Latex/數學模式.md"
+  ]
+}
