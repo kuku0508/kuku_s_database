@@ -175,12 +175,30 @@
             "id": "c979f0c33832c6bf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/極限.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "925d9b359a9c079b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/級數.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -246,6 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "程式語言/Latex/語法表/級數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,6 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "程式語言/Latex/語法表/級數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +303,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "程式語言/Latex/語法表/級數.md"
+              }
             }
           },
           {
@@ -332,12 +354,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c979f0c33832c6bf",
+  "active": "925d9b359a9c079b",
   "lastOpenFiles": [
+    "程式語言/Latex/語法表/極限.md",
+    "程式語言/Latex/語法表/級數.md",
     "標籤連結.md",
     "程式語言/Latex/Latex.md",
     "程式語言/Latex/語法表/積分.md",
-    "程式語言/Latex/語法表/極限.md",
     "程式語言/Latex/語法表/微分.md",
     "程式語言/Latex/語法表/向下取整 ⌊ ⌋.md",
     "程式語言/Latex/語法表/開方√.md",
@@ -360,7 +383,6 @@
     "程式語言/HTML/語法表/上標.md",
     "附件",
     "程式語言/Latex/展式數式.md",
-    "程式語言/Latex/語法表",
-    "程式語言/HTML/語法表/下標.md"
+    "程式語言/Latex/語法表"
   ]
 }
