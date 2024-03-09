@@ -242,7 +242,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/HTML/語法表/上標.md",
+                "file": "程式語言/HTML/語法表/底線_.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -316,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/HTML/語法表/上標.md",
+                "file": "程式語言/HTML/語法表/底線_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -333,7 +333,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/HTML/語法表/上標.md",
+                "file": "程式語言/HTML/語法表/底線_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -356,7 +356,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/HTML/語法表/上標.md"
+                "file": "程式語言/HTML/語法表/底線_.md"
               }
             }
           },
@@ -417,9 +417,12 @@
   },
   "active": "0f9dfc5242a1b2ef",
   "lastOpenFiles": [
+    "程式語言/HTML/語法表/字體大小.md",
+    "程式語言/HTML/語法表/文字顏色.md",
+    "程式語言/HTML/語法表/下標.md",
+    "程式語言/HTML/語法表/上標.md",
     "程式語言/HTML/HTML語法表.md",
     "程式語言/HTML/HTML.md",
-    "程式語言/HTML/語法表/上標.md",
     "程式語言/MarkDown/Markdown語法表.md",
     "程式語言/MarkDown/MarkDown.md",
     "程式語言/MarkDown/語法表/CheckBox.md",
@@ -440,9 +443,6 @@
     "程式語言/MarkDown/語法表/表格.md",
     "程式語言/MarkDown/語法表/刪除線.md",
     "程式語言/MarkDown/語法表/字體大小.md",
-    "程式語言/MarkDown/語法表/主標題.md",
-    "程式語言/MarkDown/語法表/引文.md",
-    "程式語言/MarkDown/語法表/分隔線.md",
     "附件/Pasted image 20240309102025.png",
     "附件",
     "程式語言/Latex/語法表"
