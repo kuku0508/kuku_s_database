@@ -240,13 +240,8 @@
             "id": "0f9dfc5242a1b2ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/特殊符號.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -316,7 +311,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/特殊符號.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -333,7 +327,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/特殊符號.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -355,9 +348,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "程式語言/Latex/語法表/特殊符號.md"
-              }
+              "state": {}
             }
           },
           {
@@ -417,10 +408,10 @@
   },
   "active": "0f9dfc5242a1b2ef",
   "lastOpenFiles": [
+    "程式語言/Latex/語法表/特殊符號.md",
     "程式語言/Latex/語法表/希臘字母.md",
     "程式語言/Latex/語法表/連乘.md",
     "程式語言/Latex/語法表/級數.md",
-    "程式語言/Latex/語法表/特殊符號.md",
     "程式語言/Latex/語法表/省略符號 ‧‧‧.md",
     "程式語言/Latex/語法表/關係符號.md",
     "程式語言/Latex/語法表/積分.md",
