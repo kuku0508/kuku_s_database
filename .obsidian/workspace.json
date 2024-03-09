@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/Latex/語法表/尖括號〈〉.md",
+                "file": "程式語言/Latex/語法表/積分.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -315,7 +315,7 @@
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -480,8 +480,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aeb34f4ba59dc0eb",
+  "active": "f7d82cd25aa22e30",
   "lastOpenFiles": [
+    "程式語言/Latex/語法表/尖括號〈〉.md",
+    "程式語言/Latex/語法表/積分.md",
     "程式語言/Latex/語法表/對數.md",
     "程式語言/Latex/語法表/對數(1).md",
     "程式語言/Latex/語法表/三角函數.md",
@@ -506,8 +508,6 @@
     "程式語言/HTML/語法表/底線_.md",
     "程式語言/HTML/語法表/字體大小.md",
     "程式語言/MarkDown/Markdown語法表.md",
-    "程式語言/MarkDown/MarkDown.md",
-    "程式語言/MarkDown/語法表/CheckBox.md",
     "附件/Pasted image 20240309102025.png",
     "附件",
     "程式語言/Latex/語法表"
