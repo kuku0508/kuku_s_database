@@ -240,12 +240,30 @@
             "id": "0f9dfc5242a1b2ef",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/連乘.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b99de800f652a3ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/聯集.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -311,6 +329,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "程式語言/Latex/語法表/聯集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,6 +346,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "程式語言/Latex/語法表/聯集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -348,7 +368,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "程式語言/Latex/語法表/聯集.md"
+              }
             }
           },
           {
@@ -406,8 +428,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0f9dfc5242a1b2ef",
+  "active": "b99de800f652a3ad",
   "lastOpenFiles": [
+    "程式語言/Latex/語法表/連乘.md",
+    "程式語言/Latex/語法表/聯集.md",
     "程式語言/HTML/HTML語法表.md",
     "程式語言/HTML/HTML.md",
     "程式語言/HTML/語法表/跑馬燈.md",
@@ -432,8 +456,6 @@
     "程式語言/MarkDown/語法表/粗體字.md",
     "程式語言/MarkDown/語法表/斜體字.md",
     "程式語言/MarkDown/語法表/斜粗字.md",
-    "程式語言/MarkDown/語法表/副標題.md",
-    "程式語言/MarkDown/語法表/表格.md",
     "附件/Pasted image 20240309102025.png",
     "附件",
     "程式語言/Latex/語法表"
