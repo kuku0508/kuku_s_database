@@ -287,8 +287,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1e2f35858b280e10",
@@ -404,9 +403,9 @@
   },
   "active": "4418906781716c20",
   "lastOpenFiles": [
-    "程式語言/Latex/語法表/特殊符號.md",
-    "程式語言/Latex/語法表/關係符號.md",
     "程式語言/Latex/語法表/希臘字母.md",
+    "程式語言/Latex/語法表/關係符號.md",
+    "程式語言/Latex/語法表/特殊符號.md",
     "程式語言/Latex/語法表/級數.md",
     "程式語言/Latex/語法表/積分.md",
     "程式語言/Latex/Latex語法表.md",
