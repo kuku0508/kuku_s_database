@@ -240,13 +240,8 @@
             "id": "0f9dfc5242a1b2ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/MarkDown/語法表/數字標號.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -316,7 +311,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/MarkDown/語法表/數字標號.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -333,7 +327,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/MarkDown/語法表/數字標號.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -355,9 +348,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "程式語言/MarkDown/語法表/數字標號.md"
-              }
+              "state": {}
             }
           },
           {
@@ -417,6 +408,12 @@
   },
   "active": "0f9dfc5242a1b2ef",
   "lastOpenFiles": [
+    "程式語言/MarkDown/Markdown語法表.md",
+    "程式語言/MarkDown/MarkDown.md",
+    "程式語言/MarkDown/語法表/CheckBox.md",
+    "程式語言/MarkDown/語法表/簡易超連結.md",
+    "程式語言/MarkDown/語法表/螢光標記.md",
+    "程式語言/MarkDown/語法表/數字標號.md",
     "程式語言/MarkDown/語法表/圖片連結.md",
     "程式語言/MarkDown/語法表/圖片.md",
     "程式語言/MarkDown/語法表/跳脫字元.md",
@@ -437,12 +434,6 @@
     "程式語言/Latex/Latex語法表.md",
     "程式語言/Latex/語法表/上標.md",
     "定義清單.md",
-    "程式語言/Latex/語法表/特殊符號.md",
-    "程式語言/Latex/語法表/希臘字母.md",
-    "程式語言/Latex/語法表/連乘.md",
-    "程式語言/Latex/語法表/級數.md",
-    "程式語言/Latex/語法表/省略符號 ‧‧‧.md",
-    "程式語言/Latex/語法表/關係符號.md",
     "附件/Pasted image 20240309102025.png",
     "附件",
     "程式語言/Latex/語法表"
