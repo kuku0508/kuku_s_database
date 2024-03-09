@@ -60,6 +60,19 @@
             }
           },
           {
+            "id": "82b2a2497d8fd10a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/邏輯運算.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "71f03c42aa5787ab",
             "type": "leaf",
             "state": {
@@ -315,7 +328,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -381,7 +394,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/極限.md",
+                "file": "程式語言/Latex/語法表/邏輯運算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -398,7 +411,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/極限.md",
+                "file": "程式語言/Latex/語法表/邏輯運算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -421,7 +434,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/語法表/極限.md"
+                "file": "程式語言/Latex/語法表/邏輯運算.md"
               }
             }
           },
@@ -480,8 +493,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7d82cd25aa22e30",
+  "active": "82b2a2497d8fd10a",
   "lastOpenFiles": [
+    "程式語言/Latex/語法表/極限.md",
+    "程式語言/Latex/語法表/邏輯運算.md",
     "程式語言/Latex/語法表/微分.md",
     "程式語言/Latex/語法表/積分.md",
     "程式語言/Latex/語法表/尖括號〈〉.md",
@@ -500,14 +515,12 @@
     "程式語言/HTML/語法表/下標.md",
     "程式語言/HTML/語法表/上標.md",
     "程式語言/Latex/語法表/向量.md",
-    "程式語言/Latex/語法表/極限.md",
     "程式語言/Latex/語法表/交集.md",
     "程式語言/Latex/語法表/聯集.md",
     "程式語言/Latex/語法表/級數.md",
     "程式語言/HTML/HTML語法表.md",
     "程式語言/HTML/HTML.md",
     "程式語言/HTML/語法表/底線_.md",
-    "程式語言/HTML/語法表/字體大小.md",
     "附件/Pasted image 20240309102025.png",
     "附件",
     "程式語言/Latex/語法表"
