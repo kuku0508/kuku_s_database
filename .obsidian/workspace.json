@@ -291,7 +291,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -408,6 +409,7 @@
   },
   "active": "0f9dfc5242a1b2ef",
   "lastOpenFiles": [
+    "程式語言/Latex/語法表/上標.md",
     "定義清單.md",
     "程式語言/Latex/語法表/特殊符號.md",
     "程式語言/Latex/語法表/希臘字母.md",
@@ -427,7 +429,6 @@
     "程式語言/Latex/語法表/開方√.md",
     "程式語言/Latex/語法表/尖括號〈〉.md",
     "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md",
-    "程式語言/Latex/語法表/上標.md",
     "程式語言/Latex/語法表/下標.md",
     "程式語言/Latex/語法表/大括號｛｝.md",
     "程式語言/Latex/語法表/分數.md",
