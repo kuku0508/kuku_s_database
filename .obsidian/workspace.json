@@ -344,9 +344,17 @@
               "type": "BC-tree",
               "state": {}
             }
+          },
+          {
+            "id": "086de97f543941c7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -367,7 +375,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "095f137d20e92101",
+  "active": "086de97f543941c7",
   "lastOpenFiles": [
     "程式語言/Latex/語法表/級數.md",
     "程式語言/Latex/語法表/希臘字母.md",
