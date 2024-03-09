@@ -209,9 +209,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "781ae6b0f5a1a7de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/特殊符號.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -277,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/希臘字母.md",
+                "file": "程式語言/Latex/語法表/特殊符號.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/希臘字母.md",
+                "file": "程式語言/Latex/語法表/特殊符號.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -317,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/語法表/希臘字母.md"
+                "file": "程式語言/Latex/語法表/特殊符號.md"
               }
             }
           },
@@ -376,10 +389,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "095f137d20e92101",
+  "active": "781ae6b0f5a1a7de",
   "lastOpenFiles": [
-    "程式語言/Latex/語法表/級數.md",
     "程式語言/Latex/語法表/希臘字母.md",
+    "程式語言/Latex/語法表/特殊符號.md",
+    "程式語言/Latex/語法表/級數.md",
     "程式語言/Latex/語法表/積分.md",
     "程式語言/Latex/Latex語法表.md",
     "標籤連結.md",
@@ -404,7 +418,6 @@
     "程式語言/HTML/HTML語法表.md",
     "程式語言/HTML/語法表/底線_.md",
     "程式語言/HTML/HTML.md",
-    "程式語言/HTML/語法表/上標.md",
     "附件",
     "程式語言/Latex/語法表"
   ]
