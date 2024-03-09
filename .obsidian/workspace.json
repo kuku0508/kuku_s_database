@@ -337,7 +337,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 443.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -354,25 +355,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "925d9b359a9c079b",
+  "active": "698a28f3ddcf431f",
   "lastOpenFiles": [
-    "程式語言/Latex/語法表/極限.md",
-    "程式語言/Latex/語法表/級數.md",
-    "標籤連結.md",
-    "程式語言/Latex/Latex.md",
     "程式語言/Latex/語法表/積分.md",
+    "程式語言/Latex/Latex語法表.md",
+    "標籤連結.md",
+    "程式語言/Latex/語法表/級數.md",
+    "附件/Pasted image 20240309102025.png",
+    "程式語言/Latex/語法表/省略符號 ‧‧‧.md",
     "程式語言/Latex/語法表/微分.md",
+    "程式語言/Latex/語法表/極限.md",
+    "程式語言/Latex/語法表/向量.md",
+    "程式語言/Latex/Latex.md",
     "程式語言/Latex/語法表/向下取整 ⌊ ⌋.md",
     "程式語言/Latex/語法表/開方√.md",
-    "程式語言/Latex/語法表/省略符號 ‧‧‧.md",
     "程式語言/Latex/語法表/尖括號〈〉.md",
-    "程式語言/Latex/語法表/向量.md",
     "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md",
     "程式語言/Latex/語法表/上標.md",
     "程式語言/Latex/語法表/下標.md",
     "程式語言/Latex/語法表/大括號｛｝.md",
     "程式語言/Latex/語法表/分數.md",
-    "程式語言/Latex/Latex語法表.md",
     "程式語言/MarkDown/語法表/刪除線.md",
     "程式語言/MarkDown/語法表/字體大小.md",
     "程式語言/MarkDown/語法表/主標題.md",
@@ -382,7 +384,6 @@
     "程式語言/HTML/HTML.md",
     "程式語言/HTML/語法表/上標.md",
     "附件",
-    "程式語言/Latex/展式數式.md",
     "程式語言/Latex/語法表"
   ]
 }
