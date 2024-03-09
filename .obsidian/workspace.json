@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/Latex/語法表/hat.md",
+                "file": "程式語言/Latex/語法表/hat(頭上長東西的).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "298623017a1929f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/連線.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/Latex/語法表/hat.md",
+                "file": "程式語言/Latex/語法表/hat(頭上長東西的).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -341,7 +354,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -407,7 +420,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/hat.md",
+                "file": "程式語言/Latex/語法表/連線.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -424,7 +437,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/hat.md",
+                "file": "程式語言/Latex/語法表/連線.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -447,7 +460,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/語法表/hat.md"
+                "file": "程式語言/Latex/語法表/連線.md"
               }
             }
           },
@@ -506,10 +519,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7d82cd25aa22e30",
+  "active": "298623017a1929f6",
   "lastOpenFiles": [
+    "程式語言/Latex/語法表/hat(頭上長東西的).md",
+    "程式語言/Latex/語法表/連線.md",
     "程式語言/Latex/語法表/關係符號.md",
-    "程式語言/Latex/語法表/hat.md",
     "程式語言/Latex/語法表/上標.md",
     "程式語言/Latex/語法表/下標.md",
     "程式語言/Latex/語法表/邏輯運算.md",
@@ -533,7 +547,6 @@
     "程式語言/Latex/語法表/交集.md",
     "程式語言/Latex/語法表/聯集.md",
     "程式語言/Latex/語法表/級數.md",
-    "程式語言/HTML/HTML語法表.md",
     "附件/Pasted image 20240309102025.png",
     "附件",
     "程式語言/Latex/語法表"
