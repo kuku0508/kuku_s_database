@@ -311,6 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "程式語言/Latex/Latex語法表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,6 +328,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "程式語言/Latex/Latex語法表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -348,7 +350,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "程式語言/Latex/Latex語法表.md"
+              }
             }
           },
           {
@@ -431,11 +435,4 @@
     "程式語言/Latex/語法表/大括號｛｝.md",
     "程式語言/Latex/語法表/分數.md",
     "程式語言/MarkDown/語法表/刪除線.md",
-    "程式語言/MarkDown/語法表/字體大小.md",
-    "程式語言/MarkDown/語法表/主標題.md",
-    "程式語言/MarkDown/語法表/引文.md",
-    "程式語言/HTML/HTML語法表.md",
-    "附件",
-    "程式語言/Latex/語法表"
-  ]
-}
+    "程式語言/MarkDown/語法表/字體大
