@@ -240,8 +240,13 @@
             "id": "0f9dfc5242a1b2ef",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/Latex語法表.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -274,7 +279,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#markdown語法",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -292,7 +297,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -312,6 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "程式語言/Latex/Latex語法表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,6 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "程式語言/Latex/Latex語法表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -349,7 +356,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "程式語言/Latex/Latex語法表.md"
+              }
             }
           },
           {
@@ -407,7 +416,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0f9dfc5242a1b2ef",
+  "active": "c1eb8eaa520f8c0b",
   "lastOpenFiles": [
     "程式語言/Latex/語法表/上標.md",
     "定義清單.md",
