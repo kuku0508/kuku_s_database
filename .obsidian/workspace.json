@@ -266,13 +266,8 @@
             "id": "dd166848feee2762",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/極限.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -342,7 +337,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/極限.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -359,7 +353,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/極限.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -381,9 +374,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "程式語言/Latex/語法表/極限.md"
-              }
+              "state": {}
             }
           },
           {
@@ -443,6 +434,7 @@
   },
   "active": "dd166848feee2762",
   "lastOpenFiles": [
+    "程式語言/Latex/語法表/極限.md",
     "程式語言/Latex/語法表/交集.md",
     "程式語言/Latex/語法表/聯集.md",
     "程式語言/Latex/語法表/連乘.md",
@@ -468,7 +460,6 @@
     "程式語言/MarkDown/語法表/超連結.md",
     "程式語言/MarkDown/語法表/程式碼區塊.md",
     "程式語言/MarkDown/語法表/短區塊.md",
-    "程式語言/MarkDown/語法表/粗體字.md",
     "附件/Pasted image 20240309102025.png",
     "附件",
     "程式語言/Latex/語法表"
