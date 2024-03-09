@@ -2,16 +2,9 @@
   "items": [
     {
       "type": "group",
-      "ctime": 1710014965478,
-      "items": [
-        {
-          "type": "file",
-          "ctime": 1710015373315,
-          "path": "程式語言/Latex/Latex語法表.md",
-          "title": "markdown語法"
-        }
-      ],
-      "title": "markdown語法"
+      "ctime": 1710015460885,
+      "items": [],
+      "title": "markdown"
     }
   ]
 }
