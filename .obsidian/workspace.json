@@ -242,7 +242,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/Latex/Latex語法表.md",
+                "file": "程式語言/MarkDown/語法表/分隔線.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -279,7 +279,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#markdown語法",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -296,8 +296,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -317,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/Latex語法表.md",
+                "file": "程式語言/MarkDown/語法表/分隔線.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +333,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/Latex語法表.md",
+                "file": "程式語言/MarkDown/語法表/分隔線.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -357,7 +356,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/Latex語法表.md"
+                "file": "程式語言/MarkDown/語法表/分隔線.md"
               }
             }
           },
@@ -416,8 +415,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c1eb8eaa520f8c0b",
+  "active": "0f9dfc5242a1b2ef",
   "lastOpenFiles": [
+    "程式語言/Latex/Latex語法表.md",
     "程式語言/Latex/語法表/上標.md",
     "定義清單.md",
     "程式語言/Latex/語法表/特殊符號.md",
@@ -427,7 +427,6 @@
     "程式語言/Latex/語法表/省略符號 ‧‧‧.md",
     "程式語言/Latex/語法表/關係符號.md",
     "程式語言/Latex/語法表/積分.md",
-    "程式語言/Latex/Latex語法表.md",
     "標籤連結.md",
     "附件/Pasted image 20240309102025.png",
     "程式語言/Latex/語法表/微分.md",
