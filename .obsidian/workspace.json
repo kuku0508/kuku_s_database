@@ -112,6 +112,14 @@
             }
           },
           {
+            "id": "0b761d4c8f2da521",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "93eaca57d15d8f50",
             "type": "leaf",
             "state": {
@@ -393,7 +401,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -459,7 +467,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/字體.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -476,7 +483,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/字體.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -498,9 +504,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "程式語言/Latex/語法表/字體.md"
-              }
+              "state": {}
             }
           },
           {
@@ -558,10 +562,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "11d0dc96fd7be222",
+  "active": "0b761d4c8f2da521",
   "lastOpenFiles": [
-    "程式語言/Latex/語法表/其他符號.md",
+    "程式語言/Latex/語法表/大括號與行標.md",
     "程式語言/Latex/語法表/字體.md",
+    "程式語言/Latex/語法表/其他符號.md",
     "程式語言/Latex/語法表/箭頭.md",
     "程式語言/Latex/語法表/連線.md",
     "程式語言/Latex/語法表/hat(頭上長東西的).md",
@@ -585,7 +590,6 @@
     "程式語言/HTML/語法表/文字顏色.md",
     "程式語言/HTML/語法表/下標.md",
     "程式語言/HTML/語法表/上標.md",
-    "程式語言/Latex/語法表/向量.md",
     "附件/Pasted image 20240309102025.png",
     "附件",
     "程式語言/Latex/語法表"
