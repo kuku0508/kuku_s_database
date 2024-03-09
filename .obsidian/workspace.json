@@ -73,6 +73,19 @@
             }
           },
           {
+            "id": "d11ff6ad9b984054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "93eaca57d15d8f50",
             "type": "leaf",
             "state": {
@@ -354,7 +367,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -420,7 +433,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/連線.md",
+                "file": "程式語言/Latex/語法表/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -437,7 +450,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/連線.md",
+                "file": "程式語言/Latex/語法表/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -460,7 +473,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/語法表/連線.md"
+                "file": "程式語言/Latex/語法表/未命名.md"
               }
             }
           },
@@ -519,10 +532,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "298623017a1929f6",
+  "active": "d11ff6ad9b984054",
   "lastOpenFiles": [
-    "程式語言/Latex/語法表/hat(頭上長東西的).md",
     "程式語言/Latex/語法表/連線.md",
+    "程式語言/Latex/語法表/未命名.md",
+    "程式語言/Latex/語法表/hat(頭上長東西的).md",
     "程式語言/Latex/語法表/關係符號.md",
     "程式語言/Latex/語法表/上標.md",
     "程式語言/Latex/語法表/下標.md",
@@ -546,7 +560,6 @@
     "程式語言/Latex/語法表/向量.md",
     "程式語言/Latex/語法表/交集.md",
     "程式語言/Latex/語法表/聯集.md",
-    "程式語言/Latex/語法表/級數.md",
     "附件/Pasted image 20240309102025.png",
     "附件",
     "程式語言/Latex/語法表"
