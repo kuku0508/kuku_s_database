@@ -242,7 +242,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/MarkDown/語法表/刪除線.md",
+                "file": "程式語言/MarkDown/語法表/短區塊.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -316,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/MarkDown/語法表/刪除線.md",
+                "file": "程式語言/MarkDown/語法表/短區塊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -333,7 +333,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/MarkDown/語法表/刪除線.md",
+                "file": "程式語言/MarkDown/語法表/短區塊.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -356,7 +356,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/MarkDown/語法表/刪除線.md"
+                "file": "程式語言/MarkDown/語法表/短區塊.md"
               }
             }
           },
@@ -417,6 +417,12 @@
   },
   "active": "0f9dfc5242a1b2ef",
   "lastOpenFiles": [
+    "程式語言/MarkDown/語法表/粗體字.md",
+    "程式語言/MarkDown/語法表/斜體字.md",
+    "程式語言/MarkDown/語法表/斜粗字.md",
+    "程式語言/MarkDown/語法表/副標題.md",
+    "程式語言/MarkDown/語法表/表格.md",
+    "程式語言/MarkDown/語法表/刪除線.md",
     "程式語言/MarkDown/語法表/字體大小.md",
     "程式語言/MarkDown/語法表/主標題.md",
     "程式語言/MarkDown/語法表/引文.md",
@@ -438,12 +444,6 @@
     "程式語言/Latex/語法表/向量.md",
     "程式語言/Latex/Latex.md",
     "程式語言/Latex/語法表/向下取整 ⌊ ⌋.md",
-    "程式語言/Latex/語法表/開方√.md",
-    "程式語言/Latex/語法表/尖括號〈〉.md",
-    "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md",
-    "程式語言/Latex/語法表/下標.md",
-    "程式語言/Latex/語法表/大括號｛｝.md",
-    "程式語言/Latex/語法表/分數.md",
     "附件",
     "程式語言/Latex/語法表"
   ]
