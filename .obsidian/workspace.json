@@ -307,7 +307,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/Latex/語法表/三角函數.md",
+                "file": "程式語言/Latex/語法表/積分.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -381,7 +381,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/三角函數.md",
+                "file": "程式語言/Latex/語法表/積分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -398,7 +398,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/三角函數.md",
+                "file": "程式語言/Latex/語法表/積分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -421,7 +421,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/語法表/三角函數.md"
+                "file": "程式語言/Latex/語法表/積分.md"
               }
             }
           },
@@ -484,11 +484,11 @@
   "lastOpenFiles": [
     "程式語言/Latex/語法表/對數.md",
     "程式語言/Latex/語法表/對數(1).md",
+    "程式語言/Latex/語法表/三角函數.md",
     "程式語言/Latex/語法表/省略符號 ‧‧‧.md",
     "程式語言/Latex/語法表/關係符號.md",
     "程式語言/Latex/語法表/集合符號.md",
     "程式語言/Latex/語法表/希臘字母.md",
-    "程式語言/Latex/語法表/三角函數.md",
     "程式語言/Latex/語法表/連乘.md",
     "程式語言/Latex/語法表/開方√.md",
     "程式語言/Latex/語法表/上標.md",
