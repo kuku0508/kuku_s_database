@@ -17,15 +17,15 @@ $$
 2. align：用於創建多行的對其方程式
 ```
 \begin{align}
-y = mx + b \\
-= \frac{d}{dx} (mx) + b \\
-= m
+y &= mx + b \\
+&= \frac{d}{dx} (mx) + b \\
+&= m
 \end{align}
 ```
 $$
 \begin{align}
-y = mx + b \\
-= \frac{d}{dx} (mx) + b \\
-= m
+y &= mx + b \\
+&= \frac{d}{dx} (mx) + b \\
+&= m
 \end{align}
 $$
