@@ -141,5 +141,11 @@ f(x) &= (x^2 + 2x + 1)(x^3 + 3x^2 + 3x + 1) \\
 \end{split}
 $$
 - - -
-8. array：用於創建帶有
-
+8. array：用於創建帶有自定義對齊方式的數學陣列。
+```
+\begin{array}{ccc} 
+a & b \\ 
+c & d \\ 
+e & f \\ 
+\end{array}
+```
