@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/Latex/語法表/刪除線.md",
+                "file": "程式語言/Latex/語法表/上標.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/刪除線.md",
+                "file": "程式語言/Latex/語法表/上標.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/刪除線.md",
+                "file": "程式語言/Latex/語法表/上標.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/語法表/刪除線.md"
+                "file": "程式語言/Latex/語法表/上標.md"
               }
             }
           },
@@ -201,6 +201,7 @@
   },
   "active": "f4c784df3cc30dd4",
   "lastOpenFiles": [
+    "程式語言/Latex/語法表/刪除線.md",
     "程式語言/Latex/語法表/對數.md",
     "程式語言/Latex/語法表/箭頭.md",
     "程式語言/Latex/語法表/聯集.md",
@@ -208,7 +209,6 @@
     "程式語言/Latex/語法表/空格.md",
     "程式語言/Latex/展式數式.md",
     "程式語言/Latex/語法表/關係符號.md",
-    "程式語言/Latex/語法表/刪除線.md",
     "程式語言/Latex/語法表/交集.md",
     "程式語言/Latex/語法表/文字顏色.md",
     "附件/Pasted image 20240310092647.png",
