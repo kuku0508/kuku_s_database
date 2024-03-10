@@ -31,3 +31,9 @@ y &= mx + b \\
 &= m
 \end{align}
 $$
+- - -
+1. matrix：用於創建矩陣
+\begin{matrix}
+    1 & 2 \\
+    3 & 4
+\end{matrix}
