@@ -83,6 +83,5 @@ $$
 
 $$
 \begin{alignat}{2}
-x + y &= 5 &\quad &\text{(第一條)} \\ 
-2x - y &= 3 &&\text{(第二條)} \end{alignat}
+x + y &= 5 &\quad &\text{(第一條)} \\ 2x - y &= 3 &&\text{(第二條)} \end{alignat}
 $$
