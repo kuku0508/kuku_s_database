@@ -33,8 +33,10 @@ y &= mx + b \\
 $$
 - - -
 3. matrix：用於創建矩陣
-我有做一個專門介紹矩陣的筆記，詳細使用方法可以去那邊看。[矩陣](obsidian://open?vault=kuku_s_database&file=%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%2FLatex%2F%E8%AA%9E%E6%B3%95%E8%A1%A8%2F%E7%9F%A9%E9%99%A3)
+我有做一個專門介紹矩陣的筆記，詳細使用方法可以去[矩陣](obsidian://open?vault=kuku_s_database&file=%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%2FLatex%2F%E8%AA%9E%E6%B3%95%E8%A1%A8%2F%E7%9F%A9%E9%99%A3)
+```
 \begin{matrix}
     1 & 2 \\
     3 & 4
 \end{matrix}
+```
