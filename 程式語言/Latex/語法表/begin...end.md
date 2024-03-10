@@ -80,7 +80,7 @@ f(x) =
 $$
 - - -
 5. alignat：用於創建多行的對齊方程式，提供更靈活地對齊控制。
-我其實有點看不懂他跟align的差別在哪。
+我其實有點看不懂他跟align的差別在哪。他說
 ```
 \begin{alignat}{2}
     y &= mx &+& b \\
@@ -94,4 +94,12 @@ $$
     &= \frac{d}{dx} (mx) &+& b \\
     &= m
 \end{alignat}
+$$
+$$
+\begin{align}
+    y &= mx &+& b \\
+    &= \frac{d}{dx} (mx) &+& b \\
+    &= m
+\end{align}
+
 $$
