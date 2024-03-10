@@ -125,3 +125,13 @@ $$
 \end{gather}
 $$
 - - -
+7. split
+$$
+\begin{equation}
+    \begin{split}
+        f(x) &= (x + 1)(x - 1) \\
+        &= x^2 - 1
+    \end{split}
+\end{equation}
+
+$$
