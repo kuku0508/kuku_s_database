@@ -112,7 +112,7 @@ $$
 $$
 - - - 
 6. gather：用於創建多行的置中對齊方程式
-```
+```Latex
 \begin{gather}
     a = b + c \\
     d = e + f
@@ -125,14 +125,13 @@ $$
 \end{gather}
 $$
 - - -
-7. split
-```
+7. split：用於在
+```Latex
 \begin{split} 
 f(x) &= (x^2 + 2x + 1)(x^3 + 3x^2 + 3x + 1) \\ 
 &= x^5 + 3x^4 + 3x^3 + x^3 + 3x^2 + 6x^2 + 3x + 3x + 3x + 1 \\ 
 &= x^5 + 3x^4 + 4x^3 + 6x^2 + 9x + 1 
 \end{split}
-
 ```
 $$
 \begin{split} 
@@ -141,3 +140,5 @@ f(x) &= (x^2 + 2x + 1)(x^3 + 3x^2 + 3x + 1) \\
 &= x^5 + 3x^4 + 4x^3 + 6x^2 + 9x + 1 
 \end{split}
 $$
+- - -
+- 
