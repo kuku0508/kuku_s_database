@@ -47,7 +47,7 @@ $$
 \end{matrix}
 $$
 - - -
-4. cases：用於創建帶有分段函數的方程式(聯立方程式)
+4. [cases](obsidian://open?vault=kuku_s_database&file=%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%2FLatex%2F%E8%AA%9E%E6%B3%95%E8%A1%A8%2F%E6%A2%9D%E4%BB%B6%E8%A1%A8%E9%81%94%E5%BC%8F)：用於創建帶有分段函數的方程式(聯立方程式)
 而下面的\\\\跟&分別功能是換行還有「決定對齊點」，值得注意的是，對齊線其實可以有數個，每一行的每一個「&」都會去對應下一行的「&」。
 ```Latex
 \begin{cases}
