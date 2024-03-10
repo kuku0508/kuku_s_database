@@ -11,11 +11,30 @@
             "id": "c7bd4b1c5792d7c8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/交集.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4c784df3cc30dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/刪除線.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "程式語言/Latex/語法表/刪除線.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "程式語言/Latex/語法表/刪除線.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "程式語言/Latex/語法表/刪除線.md"
+              }
             }
           },
           {
@@ -176,8 +199,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c7bd4b1c5792d7c8",
+  "active": "f4c784df3cc30dd4",
   "lastOpenFiles": [
+    "程式語言/Latex/語法表/交集.md",
+    "程式語言/Latex/語法表/刪除線.md",
     "程式語言/Latex/語法表/文字顏色.md",
     "附件/Pasted image 20240310092647.png",
     "附件/Pasted image 20240310092637.png",
@@ -204,7 +229,6 @@
     "程式語言/Latex/語法表/上標.md",
     "程式語言/Latex/語法表/連線.md",
     "程式語言/Latex/語法表/箭頭.md",
-    "程式語言/Latex/語法表/其他符號.md",
     "附件/Pasted image 20240309102025.png",
     "附件",
     "程式語言/Latex/語法表"
