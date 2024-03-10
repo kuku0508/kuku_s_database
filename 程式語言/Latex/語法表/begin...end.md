@@ -82,4 +82,8 @@ $$
 5. alignat
 
 $$
-\begin{alignat}{3} 2x + 3y &= 6 \\ 4x - 2y &= 8 \end{alignat}$$
+\begin{alignat}{4}
+2x + 3y +3+4&= 6 \\ 
+4x - 2y -3&-6&= 8 
+\end{alignat}
+$$
