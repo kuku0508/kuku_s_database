@@ -82,6 +82,4 @@ $$
 5. alignat
 
 $$
-\begin{alignat}{2}
-x + y &= 5 &\quad &\text{(第一條)} \\ 2x - y &= 3 &&\text{(第二條)} \end{alignat}
-$$
+\begin{alignat}{3} 2x + 3y &= 6 \\ 4x - 2y &= 8 \end{alignat}$$
