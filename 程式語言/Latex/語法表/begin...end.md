@@ -13,4 +13,9 @@ $$
 y=mx+b
 \end{equation}
 $$
-2. 
+- - -
+2. align：用於創建多行的對其方程式
+```
+\begin{align}
+y = 
+```
