@@ -127,5 +127,5 @@ $$
 - - -
 7. split
 $$
-\begin{split} f(x) &= x^2 + 2x + 1 \\ &= (x + 1)^2 \end{split}
+\begin{split} f(x) &= (x^2 + 2x + 1)(x^3 + 3x^2 + 3x + 1) \\ &= x^5 + 3x^4 + 3x^3 + x^3 + 3x^2 + 6x^2 + 3x + 3x + 3x + 1 \\ &= x^5 + 3x^4 + 4x^3 + 6x^2 + 9x + 1 \end{split}
 $$
