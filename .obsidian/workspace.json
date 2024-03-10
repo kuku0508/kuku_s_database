@@ -8,404 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a7a229760fc5b4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/Latex語法表.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b41dc7605f847cae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/上標.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3afa9e70ddddd8fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/上標.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7d82cd25aa22e30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/hat(頭上長東西的).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "298623017a1929f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/連線.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d11ff6ad9b984054",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/箭頭.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6fd936c9d63a136",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/其他符號.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11d0dc96fd7be222",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/字體.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b761d4c8f2da521",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/大括號與行標.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85b028427b3da33c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/自定義算子.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bfe607680924aa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/註釋文字.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93eaca57d15d8f50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/hat(頭上長東西的).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82b2a2497d8fd10a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/邏輯運算.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71f03c42aa5787ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ae7c8e2bbd11aa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/大括號｛｝.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cdded0518c66c11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/尖括號〈〉.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d1813ffca36700a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/開方√.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2e06408a2b24caa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/省略符號 ‧‧‧.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b5a8f047f5b86af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8512fefe15d1f37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/向下取整 ⌊ ⌋.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a8e29602c85174e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "75ec565051c20f27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/積分.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c979f0c33832c6bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/極限.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "925d9b359a9c079b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/級數.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "095f137d20e92101",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/希臘字母.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "781ae6b0f5a1a7de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/特殊符號.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4418906781716c20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/關係符號.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f9dfc5242a1b2ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/連乘.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b99de800f652a3ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/聯集.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd166848feee2762",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/向量.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26f759827df28a7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/集合符號.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9621b35d1c95d0e5",
             "type": "leaf",
             "state": {
@@ -431,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -498,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/註釋文字.md",
+                "file": "程式語言/Latex/語法表/集合符號.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -515,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/註釋文字.md",
+                "file": "程式語言/Latex/語法表/集合符號.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -538,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/語法表/註釋文字.md"
+                "file": "程式語言/Latex/語法表/集合符號.md"
               }
             }
           },
@@ -597,34 +198,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bfe607680924aa8",
+  "active": "9621b35d1c95d0e5",
   "lastOpenFiles": [
-    "程式語言/Latex/語法表/自定義算子.md",
-    "程式語言/Latex/語法表/註釋文字.md",
-    "程式語言/Latex/語法表/大括號與行標.md",
-    "程式語言/Latex/語法表/字體.md",
+    "程式語言/Latex/語法表/向量.md",
+    "程式語言/Latex/語法表/聯集.md",
+    "程式語言/Latex/語法表/連乘.md",
+    "程式語言/Latex/語法表/關係符號.md",
+    "程式語言/Latex/語法表/特殊符號.md",
+    "程式語言/Latex/語法表/希臘字母.md",
+    "程式語言/Latex/語法表/級數.md",
+    "程式語言/Latex/語法表/極限.md",
+    "程式語言/Latex/語法表/積分.md",
+    "程式語言/Latex/語法表/向下取整 ⌊ ⌋.md",
+    "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md",
+    "程式語言/Latex/語法表/省略符號 ‧‧‧.md",
+    "程式語言/Latex/語法表/開方√.md",
+    "程式語言/Latex/語法表/尖括號〈〉.md",
+    "程式語言/Latex/語法表/大括號｛｝.md",
+    "程式語言/Latex/語法表/邏輯運算.md",
     "程式語言/Latex/語法表/hat(頭上長東西的).md",
+    "程式語言/Latex/語法表/上標.md",
+    "程式語言/Latex/語法表/連線.md",
     "程式語言/Latex/語法表/箭頭.md",
     "程式語言/Latex/語法表/其他符號.md",
-    "程式語言/Latex/語法表/連線.md",
-    "程式語言/Latex/語法表/關係符號.md",
-    "程式語言/Latex/語法表/邏輯運算.md",
-    "程式語言/Latex/語法表/上標.md",
-    "程式語言/Latex/語法表/下標.md",
-    "程式語言/Latex/語法表/極限.md",
-    "程式語言/Latex/語法表/微分.md",
-    "程式語言/Latex/語法表/積分.md",
-    "程式語言/Latex/語法表/尖括號〈〉.md",
-    "程式語言/Latex/語法表/對數.md",
-    "程式語言/Latex/語法表/對數(1).md",
-    "程式語言/Latex/語法表/三角函數.md",
-    "程式語言/Latex/語法表/省略符號 ‧‧‧.md",
-    "程式語言/Latex/語法表/集合符號.md",
-    "程式語言/Latex/語法表/希臘字母.md",
-    "程式語言/Latex/語法表/連乘.md",
-    "程式語言/Latex/語法表/開方√.md",
-    "程式語言/HTML/語法表/跑馬燈.md",
-    "程式語言/HTML/語法表/文字顏色.md",
+    "程式語言/Latex/語法表/字體.md",
+    "程式語言/Latex/語法表/大括號與行標.md",
+    "程式語言/Latex/語法表/自定義算子.md",
+    "程式語言/程式語言.md",
+    "程式語言/Latex/語法表/註釋文字.md",
     "附件/Pasted image 20240309102025.png",
     "附件",
     "程式語言/Latex/語法表"
