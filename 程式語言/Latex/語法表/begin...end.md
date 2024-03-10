@@ -14,7 +14,8 @@ y=mx+b
 \end{equation}
 $$
 - - -
-2. align：用於創建多行的對其方程式
+2. align：用於創建多行的對齊方程式
+然後下面的&的作用在於決定對齊點】
 ```
 \begin{align}
 y &= mx + b \\
