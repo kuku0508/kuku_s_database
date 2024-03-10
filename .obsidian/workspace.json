@@ -58,9 +58,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c80c0d03a6f442c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/begin...end.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/begin...end.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "程式語言/Latex/語法表/begin...end.md"
-              }
+              "state": {}
             }
           },
           {
@@ -225,8 +229,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da0d3627f83e46df",
+  "active": "1c80c0d03a6f442c",
   "lastOpenFiles": [
+    "程式語言/Latex/語法表/矩陣.md",
+    "程式語言/Latex/語法表/begin...end.md",
     "程式語言/Latex/語法表/sideset.md",
     "程式語言/Latex/語法表/三角函數.md",
     "程式語言/Latex/語法表/大括號｛｝.md",
@@ -251,8 +257,6 @@
     "程式語言/Latex/語法表/集合符號.md",
     "程式語言/Latex/語法表/微分.md",
     "程式語言/Latex/語法表/極限.md",
-    "程式語言/Latex/語法表/對數.md",
-    "程式語言/Latex/語法表/積分.md",
     "附件/Pasted image 20240310092647.png",
     "附件/Pasted image 20240310092637.png",
     "附件/Pasted image 20240309102025.png",
