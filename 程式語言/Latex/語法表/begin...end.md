@@ -79,11 +79,12 @@ f(x) =
 \end{cases}
 $$
 - - -
-5. alignat
+5. alignat：
 
 $$
-\begin{alignat}{1}
-2x + &3y +3+4&= 6 \\ 
-4x - 2y -3&-6&= 8 
+\begin{alignat}{2}
+    y &= mx &+& b \\
+    &= \frac{d}{dx} (mx) &+& b \\
+    &= m
 \end{alignat}
 $$
