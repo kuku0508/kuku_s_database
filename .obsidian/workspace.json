@@ -138,6 +138,19 @@
             }
           },
           {
+            "id": "2bfe607680924aa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "93eaca57d15d8f50",
             "type": "leaf",
             "state": {
@@ -419,7 +432,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -485,7 +498,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/自定義算子.md",
+                "file": "程式語言/Latex/語法表/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -502,7 +515,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/自定義算子.md",
+                "file": "程式語言/Latex/語法表/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -525,7 +538,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/語法表/自定義算子.md"
+                "file": "程式語言/Latex/語法表/未命名.md"
               }
             }
           },
@@ -584,10 +597,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "85b028427b3da33c",
+  "active": "2bfe607680924aa8",
   "lastOpenFiles": [
-    "程式語言/Latex/語法表/大括號與行標.md",
     "程式語言/Latex/語法表/自定義算子.md",
+    "程式語言/Latex/語法表/未命名.md",
+    "程式語言/Latex/語法表/大括號與行標.md",
     "程式語言/Latex/語法表/字體.md",
     "程式語言/Latex/語法表/hat(頭上長東西的).md",
     "程式語言/Latex/語法表/箭頭.md",
@@ -611,7 +625,6 @@
     "程式語言/Latex/語法表/開方√.md",
     "程式語言/HTML/語法表/跑馬燈.md",
     "程式語言/HTML/語法表/文字顏色.md",
-    "程式語言/HTML/語法表/下標.md",
     "附件/Pasted image 20240309102025.png",
     "附件",
     "程式語言/Latex/語法表"
