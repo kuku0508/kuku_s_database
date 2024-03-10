@@ -63,3 +63,18 @@ f(x) =
     0, & \text{if } x = 0
 \end{cases}
 ```
+$$
+\begin{cases}
+    \text{條件1} & \text{結果1a} & \text{結果1b} \\
+    \text{條件2} & \text{結果2a} & \text{結果2b} \\
+    \text{條件3} & \text{結果3a} & \text{結果3b}
+\end{cases}
+$$
+$$
+f(x) =
+\begin{cases}
+    x^2, & \text{if } x > 0 \\
+    -x^2, & \text{if } x < 0 \\
+    0, & \text{if } x = 0
+\end{cases}
+$$
