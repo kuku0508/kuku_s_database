@@ -2,8 +2,7 @@
 這時候可以用\\begin{環境名稱}\\end{環境名稱}來切換環境
 這邊提供幾個常用環境
 - - -
-1. equation
-2. ㄍ
+1. equation：用於創建單行方程式
 ```Latex
 \begin{equation}
 y = mx + b 
@@ -14,3 +13,4 @@ $$
 y=mx+b
 \end{equation}
 $$
+2. 
