@@ -111,4 +111,16 @@ $$
 \end{align}
 $$
 - - - 
-6. 
+6. gather：用於創建多行的置中對齊方程式
+```
+\begin{gather}
+    a = b + c \\
+    d = e + f
+\end{gather}
+```
+$$
+\begin{gather}
+    a = b + c \\
+    d = e + f
+\end{gather}
+$$
