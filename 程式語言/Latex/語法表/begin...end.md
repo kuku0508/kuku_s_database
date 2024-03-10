@@ -80,9 +80,9 @@ f(x) =
 $$
 - - -
 5. alignat：用於創建多行的對齊方程式，提供更靈活地對齊控制。
-跟align比較具有差別的是，他可以手動調整方程式的距離、寬度之類的。
+跟align比較具有差別的是，他可以透過加入空白的方式調整方程式的距離、寬度之類的。
 我下面用範例演示一下，一樣的程式，在alignat環境跟align環境的差別。
-```
+```Latex
 \begin{alignat}{2}
     y &= mx &+& b \\
     &= \frac{d}{dx} (mx) &+& b \\
@@ -96,6 +96,13 @@ $$
     &= m
 \end{alignat}
 $$
+```Latex
+\begin{align}
+    y &= mx &+& b \\
+    &= \frac{d}{dx} (mx) &+& b \\
+    &= m
+\end{align}
+```
 $$
 \begin{align}
     y &= mx &+& b \\
@@ -103,3 +110,5 @@ $$
     &= m
 \end{align}
 $$
+- - - 
+6. 
