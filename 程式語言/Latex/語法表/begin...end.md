@@ -78,3 +78,5 @@ f(x) =
     0, & \text{if } x = 0
 \end{cases}
 $$
+- - -
+5. alignat
