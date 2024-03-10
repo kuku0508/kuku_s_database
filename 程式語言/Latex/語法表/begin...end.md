@@ -80,3 +80,9 @@ f(x) =
 $$
 - - -
 5. alignat
+
+$$
+\begin{alignat}{2}
+x + y &= 5 &\quad &\text{(第一條)} \\ 
+2x - y &= 3 &&\text{(第二條)} \end{alignat}
+$$
