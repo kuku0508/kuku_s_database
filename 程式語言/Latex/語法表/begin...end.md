@@ -150,9 +150,11 @@ e & f & e\\
 \end{array}
 ```
 $$
-\begin{array}{ccc} 
-a & b \\ 
-c & d \\ 
-e & f \\ 
+\begin{array}{cc|c} 
+a & b & c\\ 
+c & d & h\\ 
+e & f & e\\
 \end{array}
 $$
+- - -
+parent::[[Latex語法表]]
