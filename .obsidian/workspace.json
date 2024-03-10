@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fa98f49e8cedfa9f",
+        "id": "c27f7c03fcbd21a9",
         "type": "tabs",
         "children": [
           {
-            "id": "9621b35d1c95d0e5",
+            "id": "2360d05986aee6a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/Latex/語法表/集合符號.md",
+                "file": "程式語言/Latex/語法表/註釋文字.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,19 +21,20 @@
             }
           },
           {
-            "id": "aeb34f4ba59dc0eb",
+            "id": "0fa74c0d628683ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/Latex/語法表/積分.md",
+                "file": "程式語言/Latex/語法表/空格.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/集合符號.md",
+                "file": "程式語言/Latex/語法表/空格.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/集合符號.md",
+                "file": "程式語言/Latex/語法表/空格.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/語法表/集合符號.md"
+                "file": "程式語言/Latex/語法表/空格.md"
               }
             }
           },
@@ -198,8 +199,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9621b35d1c95d0e5",
+  "active": "0fa74c0d628683ad",
   "lastOpenFiles": [
+    "程式語言/Latex/語法表/註釋文字.md",
+    "程式語言/Latex/語法表/空格.md",
+    "程式語言/Latex/語法表/積分.md",
+    "程式語言/Latex/語法表/集合符號.md",
     "程式語言/Latex/語法表/向量.md",
     "程式語言/Latex/語法表/聯集.md",
     "程式語言/Latex/語法表/連乘.md",
@@ -208,7 +213,6 @@
     "程式語言/Latex/語法表/希臘字母.md",
     "程式語言/Latex/語法表/級數.md",
     "程式語言/Latex/語法表/極限.md",
-    "程式語言/Latex/語法表/積分.md",
     "程式語言/Latex/語法表/向下取整 ⌊ ⌋.md",
     "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md",
     "程式語言/Latex/語法表/省略符號 ‧‧‧.md",
@@ -223,9 +227,6 @@
     "程式語言/Latex/語法表/其他符號.md",
     "程式語言/Latex/語法表/字體.md",
     "程式語言/Latex/語法表/大括號與行標.md",
-    "程式語言/Latex/語法表/自定義算子.md",
-    "程式語言/程式語言.md",
-    "程式語言/Latex/語法表/註釋文字.md",
     "附件/Pasted image 20240309102025.png",
     "附件",
     "程式語言/Latex/語法表"
